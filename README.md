@@ -1,7 +1,9 @@
 <p align="center">
-  [![N|Solid](https://www.enginethemes.com/wp-content/themes/et_home_new/img/logo-text.png)](https://qaengine.enginethemes.com/)
 
-
+  <a href="https://qaengine.enginethemes.com">
+    <img src="www.enginethemes.com/wp-content/themes/et_home_new/img/logo-text.png" />
+  </a>
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,js,css" />
   </a>
