@@ -14,9 +14,9 @@
 >Not only helps you create a Q&A website but also inspires your community to share their knowledge.
 
 ### Languages
-![PHP](https://img.shields.io/badge/php 64.9%-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%EF%B8%B124.5%-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3%EF%B8%B110.6%-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
