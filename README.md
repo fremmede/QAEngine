@@ -1,8 +1,9 @@
-
-
+<p align="center">
   <a href="https://qaengine.enginethemes.com">
-    <img src="www.enginethemes.com/wp-content/themes/et_home_new/img/logo-text.png" />
+    <img src="https://www.enginethemes.com/wp-content/themes/et_home_new/img/logo-text.png" />
   </a>
+</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,js,css" />
