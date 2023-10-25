@@ -1,8 +1,9 @@
-[![N|Solid](https://www.enginethemes.com/wp-content/themes/et_home_new/img/logo-text.png)](https://qaengine.enginethemes.com/)
-
 <p align="center">
+  [![N|Solid](https://www.enginethemes.com/wp-content/themes/et_home_new/img/logo-text.png)](https://qaengine.enginethemes.com/)
+
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=php,js,css" />
   </a>
 </p>
 
