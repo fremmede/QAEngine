@@ -10,8 +10,7 @@
 </p>
 
 >QUESTION & ANSWER WORDPRESS THEME</br>
->Build your online knowledge website
->
+>Build your online knowledge website</br>
 >Not only helps you create a Q&A website but also inspires your community to share their knowledge.
 
 ### Languages
