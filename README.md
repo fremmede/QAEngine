@@ -13,6 +13,6 @@
 >Build your online knowledge website</br>
 >Not only helps you create a Q&A website but also inspires your community to share their knowledge.
 
-[![N|Solid](https://www.enginethemes.com/wp-content/themes/et_home_new/img/logo-text.png)](https://qaengine.enginethemes.com/)
+[![N|Solid](https://www.enginethemes.com/wp-content/themes/et_home_new/img/qa/simple-design-questions-and-answers-wordpress-theme.png)](https://qaengine.enginethemes.com/)
 
 ✔️
