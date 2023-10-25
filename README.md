@@ -12,3 +12,20 @@
 >QUESTION & ANSWER WORDPRESS THEME
 >Build your online knowledge website
 >Not only helps you create a Q&A website but also inspires your community to share their knowledge.
+
+### Languages
+![PHP](https://img.shields.io/badge/php%EF%B8%B164.9%-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript%EF%B8%B124.5%-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3%EF%B8%B110.6%-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+Markdown is a lightweight markup language based on the formatting conventions
+that people naturally use in email.
+As [John Gruber] writes on the [Markdown site][df1]
+
+> The overriding design goal for Markdown's
+> formatting syntax is to make it as readable
+> as possible. The idea is that a
+> Markdown-formatted document should be
+> publishable as-is, as plain text, without
+> looking like it's been marked up with tags
+> or formatting instructions.
